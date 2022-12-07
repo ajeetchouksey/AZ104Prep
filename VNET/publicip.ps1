@@ -1,6 +1,3 @@
-> CORSS Zone 
-
-```
 $ip = @{
     Name = 'myStandardPublicIP'
     ResourceGroupName = 'QuickStartCreateIP-rg'
@@ -11,5 +8,3 @@ $ip = @{
     Zone = 1,2,3
 }
 New-AzPublicIpAddress @ip
-
-```
