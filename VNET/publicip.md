@@ -1,5 +1,4 @@
-`
-Get-AzureRM
+```
+Get-Azure
 
-´
-
+```
